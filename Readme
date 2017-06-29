@@ -1,0 +1,13 @@
+mkdir fileName
+cd file
+npm init --y
+
+npm i webpack -S
+touch webpack.config.js
+
+create a html file
+
+install babel loader
+npm i babel-loader babel-preset-es2015 babel-preset-react -S
+
+install dev-dependencies

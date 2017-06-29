@@ -1,0 +1,11 @@
+body{
+	background: #ff8db4;
+}
+.Paragraph p{
+    
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: justify;
+     
+}
